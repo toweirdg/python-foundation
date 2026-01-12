@@ -1,0 +1,6 @@
+# Take 2 number and add them[]
+print("Enter num1")
+num1=input()
+print("Enter num1")
+num2=input()
+print(num1+num2)

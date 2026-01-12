@@ -1,4 +1,4 @@
-
+# string
 message='Hello World'
 print(message)#print string 
 print(len(message)) #length of the string
