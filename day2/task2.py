@@ -1,5 +1,5 @@
 # login.py[✅]
-# number_guess.py[]
-# odd_even.py[]
-# grade.py[]
+# number_guess.py[✅]
+# odd_even.py[✅]
+# grade.py[✅]
 # counter.py[]
