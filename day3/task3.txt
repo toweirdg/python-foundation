@@ -1,14 +1,14 @@
-# ✅✅✅✅✅
-# #contact_book.py : []
+
+# contact_book.py : [✅]
 #     Store and manage contacts
 
-# student_marks.py : []
+# student_marks.py : [✅]
 #     Store students marks
 
-# todo_list.py : []
+# todo_list.py : [✅]
 #     Simple task manager
 
-# calculator_v2.py : []
+# calculator.py : [✅]
 #     Rebuild calculator with functions
 
 # file_saver.py : []
