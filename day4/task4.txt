@@ -1,0 +1,30 @@
+#Task4
+1️⃣ user_storage.py[]
+Purpose: simulate real login storage
+Must do:
+Save username + password to file
+Load users from file
+Validate login
+
+
+2️⃣ notes_app.py[✅]
+Purpose: persistence + UX
+Must do:
+Write notes to file
+Read notes back
+Keep app running via menu
+
+
+3️⃣ log_system.py[]
+Purpose: production mindset
+Must do:
+Log actions (start, save, exit)
+Append logs to file
+Timestamp optional
+
+
+4️⃣ data_backup.py[✅]
+Purpose: file-to-file logic
+Must do:
+Read data from one file
+Write it to another file
